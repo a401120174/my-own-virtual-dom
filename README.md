@@ -1,8 +1,8 @@
 # Building a Simple Virtual DOM from Scratch
 
-此為學習 React.js 的 Virtual Dom 原理的學習筆記
-參考資料為:
-https://www.youtube.com/watch?v=85gJMUEcnkc&ab_channel=TechTalksYLD
+此為學習 React.js 的 Virtual Dom 原理的學習筆記<br>
+參考資料為:<br>
+https://www.youtube.com/watch?v=85gJMUEcnkc&ab_channel=TechTalksYLD<br>
 https://github.com/ycmjason-talks/2018-11-21-manc-web-meetup-4/blob/master/README.md
 
 ###實現
